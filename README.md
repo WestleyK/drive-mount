@@ -1,5 +1,5 @@
 # drive-mount
-Simple script to mount and unmount external drives
+A simple script to mount and unmount external drives.
 <br>
 
 
